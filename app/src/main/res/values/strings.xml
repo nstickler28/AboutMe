@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">About Me</string>
     <string name="name">Nathan Stickler</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hello, my name is Nathan but I like to go by Nate. \n\n
+        I\'m 29 years old and live in Federal Way, WA.  I\'m a Computer Science graduate from
+        the University of Washington, Tacoma and am recently working my first professional job
+        in this field as a technical project manager at TecAce Software Ltd. \n\n
+        When I am not working, I very much enjoy an active and healthy lifestyle through weight
+        training and sports such as tennis and football.  I like to go on walks, play with my dog,
+        listen to music, watch anime, and hang out with close friends.  Although I love being active,
+        I am also very much a homebody and enjoy being a couch potato too.
+    </string>
 </resources>
